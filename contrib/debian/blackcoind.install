@@ -1,0 +1,2 @@
+debian/bin/qukuaicoind usr/bin
+src/qukuaicoind usr/lib/qukuaicoin

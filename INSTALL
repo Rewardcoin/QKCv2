@@ -1,0 +1,9 @@
+Building QukuaiCoin
+
+See doc/readme-qt.rst for instructions on building QukuaiCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of QukuaiCoin.
+
+See doc/build-*.txt for instructions on building qukuaicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of QukuaiCoin.
